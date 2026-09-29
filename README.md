@@ -12,8 +12,10 @@ Management student (MIM @ NOVA SBE, Lisbon) who builds and ships software — mo
 
 Most of this lives in private repos — happy to walk through the code on request.
 
-### Quant side projects (open source)
+### Open-source projects
 
+- **[sec-filings-rag](https://github.com/CH4RL3I/sec-filings-rag)** — question answering over 10-K filings with citations, and an eval harness built from XBRL data that measures how often it's actually right.
+- **[prediction-market-calibration](https://github.com/CH4RL3I/prediction-market-calibration)** — are prediction markets calibrated? Calibration curves, favourite-longshot bias and a strict out-of-sample check on 2,946 resolved Polymarket markets.
 - **[risk-neutral-density](https://github.com/CH4RL3I/risk-neutral-density)** — recovers the market-implied distribution of an asset from option prices (Breeden-Litzenberger), validated against the analytic Black-Scholes case.
 - **[backtest-overfitting](https://github.com/CH4RL3I/backtest-overfitting)** — is your best backtest real or just the luckiest of N tries? Probability of Backtest Overfitting (CSCV) and the Deflated Sharpe Ratio after López de Prado.
 
