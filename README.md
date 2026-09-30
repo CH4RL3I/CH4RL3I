@@ -30,4 +30,4 @@ Most of this lives in private repos — happy to walk through the code on reques
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/emilio-gappa-44448223a/)
+[gappa.me](https://gappa.me) — try `ask` · [LinkedIn](https://www.linkedin.com/in/emilio-gappa-44448223a/)
